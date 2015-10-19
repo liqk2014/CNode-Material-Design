@@ -10,7 +10,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="8dp"
-        android:background="@drawable/rect_btn_background"
+        android:background="@drawable/selectable_item_background"
         android:orientation="vertical">
 
         <LinearLayout
@@ -56,7 +56,7 @@
                 android:id="@+id/main_item_img_avatar"
                 android:layout_width="36dp"
                 android:layout_height="36dp"
-                android:src="@drawable/image_default" />
+                android:src="@drawable/image_placeholder" />
 
             <LinearLayout
                 android:layout_width="wrap_content"
